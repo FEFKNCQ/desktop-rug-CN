@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/45b52fa6ed91
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/desktop-rug/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/desktop-rug-CN/releases) 下载。
 
 
 # DesktopRug · Windows 桌面绒毯
